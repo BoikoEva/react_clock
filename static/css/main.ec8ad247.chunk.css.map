@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACE,gBACE,oBAAa,CAAb,YAAa,CACb,aAAA,CAAA,QAAS","file":"main.ec8ad247.chunk.css","sourcesContent":[".Clock {\n  &__buttons {\n    display: flex;\n    gap: 10px;\n  }\n}\n"]}
